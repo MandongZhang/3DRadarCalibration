@@ -1,0 +1,6 @@
+% MATLAB 自动保存
+*.asv
+*.m~
+
+% 仿真输出(可由 main.m / main_motion.m / main_motion_ula.m 重新生成)
+results/
